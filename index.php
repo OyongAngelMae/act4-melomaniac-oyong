@@ -14,7 +14,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> Add your brand name here </a>
+                <a class="navbar-brand" href="#page-top"> Lovely Stones </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -30,8 +30,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to Lovely Stones</h1>
+                <p class="lead"> Musics are like stones that has firm, solid and sometines have small composure but not as hard as rock.</p>
                 
             </div>
         </header>
@@ -49,7 +49,7 @@
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. add your fullname here</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Angel Mae B. Oyong</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
