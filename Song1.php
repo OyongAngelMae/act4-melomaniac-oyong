@@ -43,9 +43,9 @@
                         
 
                         <?php
-                        
-                        echo "class="text-primary">Song Title here</h2>";
-                        echo " <p class="lead">display the Composer here</p>";
+
+                        echo "<h2 class="text-primary"> In TYhe Summertime</h2>";
+                        echo " <h2 class="lead">Mungo Jerry</h2";
                         echo "<p>     G     </p>";
                         echo "<p>In the summertime when the weather is hot,</p>";
                         echo "<p>you can stretch right up and touch the sky,</p>";
