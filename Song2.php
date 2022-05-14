@@ -92,7 +92,7 @@
                         echo "<p>G               Am        G     F </p>";
                         echo "<p>On such a winter's day (California Dreamin?)</p>";
                         echo "<p>G               Am        G     F </p>";
-                        echo "GOn such a winterAm's day (CGalifornFia Dreamin?)";
+                        echo "<p>On such a winter's day (California Dreamin?)</p>";
                         echo "<p>G               Am</p>";
                         echo "<p>On such a winter  's day</p>";
 
